@@ -1,7 +1,7 @@
 
 name: Prueba de precios DEMA
 
-on:
+"on":
   workflow_dispatch:
 
 permissions:
